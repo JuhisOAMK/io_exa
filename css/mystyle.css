@@ -1,0 +1,20 @@
+html,
+      body {
+        height: 100%;
+        width: 100%;
+      }
+#header{
+  background-color: red;
+}
+#Menu{
+  background-color: blue;
+}
+#body{
+  background-color: brown;
+}
+#content{
+  background-color: green;
+}
+#footer{
+  background-color: magenta;
+}
