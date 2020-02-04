@@ -1,0 +1,25 @@
+html,
+      body {
+        height: 100%;
+        width: 100%;
+      }
+#header{
+  background-color: red;
+}
+#Menu{
+  background-color: pink;
+  width: 100px;
+  height: 100%;
+  font size: 20px;
+  float: left;
+
+}
+#body{
+  background-color: brown;
+}
+#content{
+  background-color: green;
+}
+#footer{
+  background-color: magenta;
+}
